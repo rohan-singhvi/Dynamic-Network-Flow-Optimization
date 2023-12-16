@@ -1,0 +1,8 @@
+\ Model RouteOptimization_copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+ 
+Subject To
+ R172560: = -1
+Bounds
+End
